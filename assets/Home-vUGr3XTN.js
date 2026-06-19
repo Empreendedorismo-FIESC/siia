@@ -1,0 +1,1 @@
+import{s as t}from"./index-Ca-1YrVI.js";import{_ as s,c as r,a,w as c,o as n,b as _}from"./index-BxRo5azV.js";const m={},i={class:"home-page"};function d(p,e){const o=t;return n(),r("div",i,[a(o,{class:"home-hero"},{title:c(()=>e[0]||(e[0]=[_(" Bem-vindo ")])),_:1})])}const x=s(m,[["render",d]]);export{x as default};
